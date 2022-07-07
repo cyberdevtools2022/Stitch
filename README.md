@@ -71,6 +71,8 @@ pip install -r win_requirements.txt
 pip install -r osx_requirements.txt
 
 # for Linux
+chmod +x install
+./install
 pip install -r lnx_requirements.txt
 ```
 
