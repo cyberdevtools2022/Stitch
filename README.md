@@ -73,7 +73,6 @@ pip install -r osx_requirements.txt
 # for Linux
 chmod +x install
 ./install
-pip install -r lnx_requirements.txt
 ```
 
 - [Pycrypto](https://pypi.python.org/pypi/pycrypto)
